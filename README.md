@@ -42,13 +42,13 @@
 
 ### 📂 Featured Projects
 
-- 🐾 **[Pet Paradise](https://github.com/Neil-M-Lal/Pet-Paradise)**  
+* 🐾 **[Pet Paradise](https://github.com/Neil-M-Lal/Pet-Paradise)**<br>
   A full-stack web application designed for pet adoption, supplies, and community management built with PHP, MySQL, and modern responsive front-end components.
 
-- ⚡ **GridSync**  
+* ⚡ **[GridSync](https://github.com/Neil-M-Lal/GridSync)**<br>
   A hybrid deep learning architecture (1D-CNN + GRU) for short-term solar generation and smart grid load forecasting.
 
-- 🍃 **[Plant Disease Detection](https://github.com/Neil-M-Lal/Plant-Disease-Detection)**
+* 🍃 **[Plant Disease Detection](https://github.com/Neil-M-Lal/Plant-Disease-Detection)**<br>
   A deep learning-based computer vision system trained on 2,000+ leaf images using Convolutional Neural Networks (CNN) to detect and classify crop diseases with high accuracy.
 
 ---
@@ -56,14 +56,15 @@
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Neil-M-Lal&show_icons=true&theme=tokyonight&hide_border=true" alt="Neil's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Neil-M-Lal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Neil-M-Lal&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Neil-M-Lal&theme=tokyonight" alt="Top Languages" height="165" />
 </p>
 
 ---
 
 ### 📫 Connect with Me
-- **GitHub:** [@Neil-M-Lal](https://github.com/Neil-M-Lal)## Hi there 👋
+
+* **GitHub:** [@Neil-M-Lal](https://github.com/Neil-M-Lal)👋
 
 <!--
 **Neil-M-Lal/Neil-M-Lal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

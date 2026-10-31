@@ -48,13 +48,16 @@
 - ⚡ **GridSync**  
   A hybrid deep learning architecture (1D-CNN + GRU) for short-term solar generation and smart grid load forecasting.
 
+- 🍃 **[Plant Disease Detection](https://github.com/Neil-M-Lal/Plant-Disease-Detection)**
+  A deep learning-based computer vision system trained on 2,000+ leaf images using Convolutional Neural Networks (CNN) to detect and classify crop diseases with high accuracy.
+
 ---
 
 ### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neil-M-Lal&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neil-M-Lal&layout=compact&theme=radical" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Neil-M-Lal&show_icons=true&theme=tokyonight&hide_border=true" alt="Neil's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Neil-M-Lal&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 ---
